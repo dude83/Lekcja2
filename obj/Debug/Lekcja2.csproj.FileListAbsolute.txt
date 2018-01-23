@@ -1,0 +1,7 @@
+C:\Users\darek\OneDrive\C#\Moje domowe\Lekcja2\Lekcja2\bin\Debug\Lekcja2.exe.config
+C:\Users\darek\OneDrive\C#\Moje domowe\Lekcja2\Lekcja2\bin\Debug\Lekcja2.exe
+C:\Users\darek\OneDrive\C#\Moje domowe\Lekcja2\Lekcja2\bin\Debug\Lekcja2.pdb
+C:\Users\darek\OneDrive\C#\Moje domowe\Lekcja2\Lekcja2\obj\Debug\Lekcja2.csprojResolveAssemblyReference.cache
+C:\Users\darek\OneDrive\C#\Moje domowe\Lekcja2\Lekcja2\obj\Debug\Lekcja2.exe
+C:\Users\darek\OneDrive\C#\Moje domowe\Lekcja2\Lekcja2\obj\Debug\Lekcja2.pdb
+C:\Users\darek\OneDrive\C#\Moje domowe\Lekcja2\Lekcja2\obj\Debug\Lekcja2.csproj.CoreCompileInputs.cache
